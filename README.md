@@ -2,7 +2,7 @@
 
 Application UI NETFLIX
 
-<img src="example.png" alt="example" />
+<img src="https://i.hizliresim.com/i60nmxv.png" width="250" height="500">
 
 Run & Build : main.dart
 
