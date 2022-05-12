@@ -1,9 +1,7 @@
-# app_netflix_flutter
+# netflix_app_flutter
 
 Application UI NETFLIX
 
-<img src="example.png" alt="example" />
+<img src="https://i.hizliresim.com/i60nmxv.png" width="250" height="550">
 
 Run & Build : main.dart
-
-Disclaimer : Need Network Connection
