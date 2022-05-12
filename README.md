@@ -1,4 +1,4 @@
-# app_netflix_flutter
+# netflix_app_flutter
 
 Application UI NETFLIX
 
